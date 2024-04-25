@@ -18,7 +18,7 @@ xcode-select --install
 
 ## （オプション）Homebrewの導入
 
-ターミナルで以下のコマンドを実行します。なお、コマンドは本稿執筆時点で有効なものです。最新のものは、[https://brew.sh/ja/:title="このサイト"]から確認して下さい。
+ターミナルで以下のコマンドを実行します。なお、コマンドは本稿執筆時点で有効なものです。最新のものは、[このサイト](https://brew.sh/ja)から確認して下さい。
 
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
