@@ -81,7 +81,7 @@ rustflags = ["-C", "target-cpu=native"]
 > [!TIP]
 > このツールはIDEやエディタによっては別途でインストールされる場合があるので、飛ばしても多分大丈夫です.
 
-Rust用の[言語サーバー]("https://en.wikipedia.org/wiki/Language_Server_Protocol")です. VimやEmacsのような~~互いに争っていたらVSCodeにシェアを漁夫られた~~古いエディタを使っている場合はインストール必須です.
+Rust用の[言語サーバー](https://en.wikipedia.org/wiki/Language_Server_Protocol)です. VimやEmacsのような~~互いに争っていたらVSCodeにシェアを漁夫られた~~古いエディタを使っている場合はインストール必須です.
 
 
 ### Rustfmt
@@ -118,7 +118,7 @@ Windows, macOS, Linuxで使用可能です.
 - Ubuntu
     1. 公式サイトから`.deb`ファイルをダウンロード or flatpakでインストール
 
-        [JetBrains toolbox / Download the App]("https://www.jetbrains.com/ja-jp/lp/toolbox/")
+        [JetBrains toolbox / Download the App](https://www.jetbrains.com/ja-jp/lp/toolbox/)
 
     2. `JetBrains Tool Box`にログインしてインストール
 
@@ -199,8 +199,8 @@ rustflags = ["-C", "link-arg=-fuse-ld=mold"]
 
 
 # 参考資料
-[Rust（プログラミング言語） - Wikipedia]("https://ja.wikipedia.org/wiki/Rust_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E)")
+[Rust（プログラミング言語） - Wikipedia](https://ja.wikipedia.org/wiki/Rust_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E))
 
-[rust-lang.org / JP（公式サイト）]("https://www.rust-lang.org/ja")
+[rust-lang.org / JP（公式サイト）](https://www.rust-lang.org/ja)
 
-[Rust - ArchLinux Wiki]("https://wiki.archlinux.jp/index.php/Rust")
+[Rust - ArchLinux Wiki](https://wiki.archlinux.jp/index.php/Rust)
