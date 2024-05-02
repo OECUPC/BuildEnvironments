@@ -14,8 +14,7 @@ WindowsにC/C++環境を導入します。
 |---|---|---|---|
 | インストールするもの | Visual Studio | MinGW | Cygwin |
 | C/C++対応 | C++のみ | C/C++ | C/C++ |
-| コンパイラ | Visual C | GCC/Clang | GCC/Clang |
-| 有償無償 | 学生のみ無償 | 無償 | 無償 |
+| コンパイラ | Visual C | GCC | GCC |
 | サイズ | 大きい | 小さい | ほどほど |
 | POSIX | 準拠しない | 微妙 | POSIX準拠 |
 | コンパイルしたものの速度 | 高速 | 高速 | やや低速 |
