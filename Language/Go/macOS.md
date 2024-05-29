@@ -20,6 +20,16 @@ LinuxにGo言語の開発環境を用意します
 - 標準ツールが超優秀（Rustとの共通点）
 
 # インストール
+
+## [推奨] Homebrewから
+1. ターミナルアプリ上で以下のコマンドを実行
+```zsh
+brew install go
+```
+
+> [!WARNING]
+> Homebrewがgit関係のエラーを吐くことが確認されています。その場合は[brew.sh](https://brew.sh/)にアクセスしてHomebrewを再インストールしてください。
+
 ## 公式ダウンロードページから
 
 1. `https://go.dev/dl/`にアクセス
